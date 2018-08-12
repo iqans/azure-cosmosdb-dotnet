@@ -1,7 +1,7 @@
-##<a id="Introduction"></a>Introduction ##
+## <a id="Introduction"></a>Introduction ##
 These samples demonstrate how to use the .NET Client SDK to interact with the [Azure DocumentDB](http://azure.microsoft.com/services/documentdb)  service
 
-##<a id="Building"></a>Building the sample ##
+## <a id="Building"></a>Building the sample ##
 
 Open in solution Visual Studio, hit build the solution and enjoy ...
 
@@ -12,7 +12,7 @@ If the button is not there, then just manually search for the package (DocumentD
 Before you can run any of the samples you do need an active Azure DocumentDB account. 
 So head over to [Azure](http://portal.azure.com) and sign-up for your account.
 
-##<a id="Description"></a>Description ##
+## <a id="Description"></a>Description ##
 
 Azure DocumentDB is a fully managed, scalable, queryable, schema free JSON document database service built for modern applications and delivered to you by Microsoft.
 
